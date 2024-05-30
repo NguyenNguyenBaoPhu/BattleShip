@@ -1,7 +1,8 @@
 # BattleShip
 /* Name: Group 6
- Member Huỳnh Minh Duy ITCSIU21174
-        Nguyễn Nguyên Bảo Phú ITCSIU21216
+ Member 
+- Huỳnh Minh Duy ITCSIU21174
+- Nguyễn Nguyên Bảo Phú ITCSIU21216
  Purpose: Battleship game files explained. 
 */
 
