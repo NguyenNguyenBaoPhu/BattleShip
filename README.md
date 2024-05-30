@@ -2,11 +2,8 @@
 /* Name: Group 6
  Member Huỳnh Minh Duy ITCSIU21174
         Nguyễn Nguyên Bảo Phú ITCSIU21216
-        Nguyễn Trần Gia Huy ITITIU21054
  Purpose: Battleship game files explained. 
 */
-
-README
 
 The game Battleship
 
